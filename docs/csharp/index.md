@@ -56,7 +56,7 @@ Hay varias secciones en la Guía de C#. Puede leerlas en orden o ir directamente
   * Proporciona información y ejemplos prácticos sobre cómo utilizar las construcciones de lenguaje C#.
 
 * [Tutoriales](../csharp/walkthroughs.md)
-  * Proporciona vínculos a los tutoriales de programación que usan C# y una breve descripción de cada uno.
+  * Proporciona vínculos a los tutoriales de programación que usan C# y una breve descripción de cada uno..
 
 * [Referencia del lenguaje](language-reference/index.md)
   * Esta sección contiene material de referencia sobre el lenguaje C#. Este material le ayudará a comprender la sintaxis y la semántica de C#. También incluye material de referencia sobre tipos, operadores, atributos, directivas de preprocesador, modificadores de compiladores y errores y advertencias del compilador.
